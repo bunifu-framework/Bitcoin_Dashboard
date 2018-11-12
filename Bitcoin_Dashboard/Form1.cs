@@ -79,8 +79,8 @@ namespace ContactList
       
         public void plotdata()
         {
-            var canvas1 = new Bunifu.DataViz.Canvas();
-            var datapoints1 = new Bunifu.DataViz.DataPoint(Bunifu.DataViz.BunifuDataViz._type.Bunifu_spline);
+            var canvas1 = new Bunifu.DataViz.WinForms.Canvas();
+            var datapoints1 = new Bunifu.DataViz.WinForms.DataPoint(Bunifu.DataViz.WinForms.BunifuDataViz._type.Bunifu_spline);
             datapoints1.addLabely("Apr","700");
             datapoints1.addLabely("May","430");
             datapoints1.addLabely("Jun","440");

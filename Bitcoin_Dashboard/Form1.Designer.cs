@@ -61,7 +61,7 @@
             this.bunifuCustomLabel5 = new Bunifu.Framework.UI.BunifuCustomLabel();
             this.bunifuImageButton7 = new Bunifu.Framework.UI.BunifuImageButton();
             this.bunifuImageButton8 = new Bunifu.Framework.UI.BunifuImageButton();
-            this.bunifuDataViz1 = new Bunifu.DataViz.BunifuDataViz();
+            this.bunifuDataViz1 = new Bunifu.DataViz.WinForms.BunifuDataViz();
             this.panel3 = new System.Windows.Forms.Panel();
             this.bunifuImageButton9 = new Bunifu.Framework.UI.BunifuImageButton();
             this.bunifuCards1.SuspendLayout();
@@ -589,7 +589,7 @@
             this.bunifuDataViz1.Name = "bunifuDataViz1";
             this.bunifuDataViz1.Size = new System.Drawing.Size(602, 238);
             this.bunifuDataViz1.TabIndex = 0;
-            this.bunifuDataViz1.Theme = Bunifu.DataViz.BunifuDataViz._theme.theme1;
+            this.bunifuDataViz1.Theme = Bunifu.DataViz.WinForms.BunifuDataViz._theme.theme1;
             this.bunifuDataViz1.Title = "";
             this.bunifuDataViz1.Load += new System.EventHandler(this.bunifuDataViz1_Load);
             // 
@@ -685,7 +685,7 @@
         private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton2;
         private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton1;
         private System.Windows.Forms.Panel panel3;
-        private Bunifu.DataViz.BunifuDataViz bunifuDataViz1;
+        private Bunifu.DataViz.WinForms.BunifuDataViz bunifuDataViz1;
         private Bunifu.Framework.UI.BunifuImageButton bunifuImageButton8;
         private Bunifu.Framework.UI.BunifuImageButton bunifuImageButton7;
         private Bunifu.Framework.UI.BunifuCustomLabel bunifuCustomLabel5;

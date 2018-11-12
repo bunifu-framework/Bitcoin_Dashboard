@@ -1,0 +1,16 @@
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\bin\Debug\ContactList.exe.config
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\bin\Debug\ContactList.exe
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\bin\Debug\ContactList.pdb
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\bin\Debug\Bunifu.Core.dll
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\bin\Debug\BunifuDataViz.dll
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.exe.config
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.ContactListItem.resources
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.Form1.resources
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.Properties.Resources.resources
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.transactions.resources
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.csproj.GenerateResource.cache
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.csproj.CopyComplete
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.exe
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.pdb
