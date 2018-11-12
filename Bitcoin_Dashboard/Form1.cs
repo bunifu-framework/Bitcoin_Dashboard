@@ -16,11 +16,11 @@ namespace ContactList
         {
             InitializeComponent();
         }
-        public void AddContact(string Contact_name, string email, bool selected = false, string path="")
+        public void AddContact(string Contact_name, string email, bool selected = false)
         {
             // Create a new ContactListItem and set the required parameters with the "Add" method.
             ContactListItem contact_item = new ContactListItem();
-            contact_item.Add(Contact_name, email,selected,path);
+            contact_item.Add(Contact_name, email,selected);
             // Then set the ContactListItem's Dock property to "Top".
             contact_item.Dock = DockStyle.Top;
             // Add the ContactListItem to the Panel.
@@ -33,14 +33,14 @@ namespace ContactList
         // Add a list of pre-defined ContactListItems.
         public void AddContacts()
         {
-            AddContact("Visual Idiot", "Vi@su.al",false, @"C: \Users\Beckie\Pictures\avatars\avatar-one.jpg");
-            AddContact("Kerem Suer", "Kerem@kerem.co",false, @"C:\Users\Beckie\Pictures\avatars\avatar-two.jpg");
-            AddContact("Josh Hamsley", "Josh@hamsley.com",false, @"C:\Users\Beckie\Pictures\avatars\avatar-three.jpg");
-            AddContact("Fabio", "fabio@ffabs.com",false, @"C:\Users\Beckie\Pictures\avatars\avatar-four.jpg");
-            AddContact("Anthony Lagoon", "anthony@lagoon.co",false, @"C:\Users\Beckie\Pictures\avatars\avatar-five.png");
-            AddContact("Jenny Shen", "jen@shen.co",false, @"C:\Users\Beckie\Pictures\avatars\avatar-six.png");
-            AddContact("Charlie Waite", "charlie@focuslab.com",false, @"C:\Users\Beckie\Pictures\avatars\avatar-seven.png");
-            AddContact("Ed Wellbrook", "El@wb.co",false, @"C:\Users\Beckie\Pictures\avatars\avatar-eight.png");
+            AddContact("Visual Ace", "Vi@su.al",false);
+            AddContact("Kerem Suer", "Kerem@kerem.co",false);
+            AddContact("Josh Hamsley", "Josh@hamsley.com",false);
+            AddContact("Fabio", "fabio@ffabs.com",false );
+            AddContact("Anthony Lagoon", "anthony@lagoon.co",false );
+            AddContact("Jenny Shen", "jen@shen.co",false);
+            AddContact("Charlie Waite", "charlie@focuslab.com",false);
+            AddContact("Ed Wellbrook", "El@wb.co",false);
         }
         private void Form1_Load(object sender, EventArgs e)
         {

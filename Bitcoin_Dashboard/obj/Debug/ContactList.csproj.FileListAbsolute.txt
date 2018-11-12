@@ -14,3 +14,4 @@ F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\Contac
 F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.csproj.CopyComplete
 F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.exe
 F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.pdb
+F:\Bunifu\2018\Demos\Github\Bitcoin_Dashboard\Bitcoin_Dashboard\obj\Debug\ContactList.csprojAssemblyReference.cache

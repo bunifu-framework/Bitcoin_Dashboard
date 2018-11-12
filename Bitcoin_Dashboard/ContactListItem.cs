@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Drawing.Drawing2D;
+using ContactList.Properties;
 
 namespace ContactList
 {
@@ -18,15 +19,14 @@ namespace ContactList
             InitializeComponent();
         }
         // This adds a new Contact control.
-        public void Add( string name, string mailtext, bool selected, string _path)
+        public void Add( string name, string mailtext, bool selected)
         {
            // Set the texts for the two values.
             Contact_name.Text = name;
             email.Text = mailtext;
             this.Active = selected;
 
-            if (_path != "")
-            bunifuImageButton1.Image = Image.FromFile(_path);
+            bunifuImageButton1.Image = Resources.avatar;
         }
         //in the mousehover event set the backcolor
         private void contactList1_MouseHover(object sender, EventArgs e)
@@ -97,6 +97,11 @@ namespace ContactList
         {
             base.OnSizeChanged(e);
             this.RecreateRegion();
+        }
+
+        private void bunifuImageButton1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

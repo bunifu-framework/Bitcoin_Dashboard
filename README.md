@@ -1,9 +1,18 @@
 # Bitcoin Dashboard Demo
 
 Steps on getting started
-> Clone 
-> Open with Visual Studio
-> Update Bunifu Framework DLLs
+Bunifu Framework Controls used in this project
+
+* BunifuFlatButton
+* BunifuDataViz
+* BunifuElipse
+* BunifuDragControl
+* BunifuTransition
+* BunifuSeparator
+* BunifuImageButton
+* BunifuCustomLabel
+* BunifuMaterialTextBox
+* BunifuCards
 
 Screenshot
 
